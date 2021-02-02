@@ -1,0 +1,226 @@
+\usepackage[cp1251]{inputenc}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathtext}
+\usepackage{mathrsfs}
+
+\ifx\pdfoutput\undefined
+\usepackage{graphicx}
+\else
+\usepackage[pdftex]{graphicx}
+\fi
+
+\usepackage{xypic}
+\usepackage{epic}
+%\usepackage{urwcyr}
+%\usepackage{bng}
+%\usepackage{pscyr}
+\usepackage[english,russian]{babel}
+\usepackage{multicol}
+\premulticols=5pt \postmulticols=0mm \multicolsep=0mm
+\usepackage{longtable}
+%
+%
+%\usepackage{array}
+%\usepackage{multirow}
+%\renewcommand\multirowsetup{\centering}
+%\usepackage{dcolumn}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+
+% LAYOUT ----------------------------------------------------------
+\textwidth=160mm\hoffset=10mm \textheight=242mm \voffset=-20mm
+\marginparwidth=0pt \marginparpush=0pt \marginparsep=0pt
+\oddsidemargin=0mm \evensidemargin=-20mm \flushbottom
+%------------------------------------------------------------------
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.}
+
+\renewcommand{\thesection}{\arabic{section}.}
+
+\renewcommand{\section}{\@startsection
+                                {section} %name
+                                {1}       %level
+                                {\z@}     %indent
+                                {12pt}    %before skip
+                                {10pt}    %after skip
+                                {\reset@font\normalfont\bfseries\sffamily}}
+                                          %font style
+
+\newcommand{\titler}[1]{%
+\vspace*{5mm}%
+
+\noindent%
+{\large\bf #1}%
+\vspace*{5mm}%
+}
+
+\makeatother
+\allowdisplaybreaks     % Разрешение переносить на другую страницу часть
+                        % многострочной формулы
+\sloppy                 %
+
+\newcommand{\di}{\displaystyle}
+
+%% аналог \- для внутритекстовых формул
+%% пример: $y(x) \hm= R_\lambda f(x)
+%% или : $Y(x)  \hm{:=} y_1(x) + y_2(x)
+\newcommand{\hm}[1]{#1\nobreak\discretionary{}{\hbox{\ensuremath{#1}}}{}}
+\relpenalty=10000 \binoppenalty=10000
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%УДК
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\UDC}[1]{%
+\vspace*{5mm}
+\noindent\textsf{УДК %
+#1}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Заголовки статей
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Rtitle}[1]{%
+\begin{center}%
+{ \bf\fontsize{14pt}{16pt}\sffamily%
+#1}%
+\end{center}%
+}
+
+\newcommand{\Etitle}[1]{%
+\vspace*{3mm}
+\begin{center}%
+{ \bf\fontsize{12pt}{14pt}\sffamily%
+#1}%
+\end{center}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Авторы
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Rauthor}[1]{%
+\centerline{%
+\bf\fontsize{11pt}{14pt}
+\sffamily%
+#1}%
+}
+
+\newcommand{\Eauthor}[1]{%
+\centerline{%
+\bf\fontsize{11pt}{14pt}
+\sffamily%
+#1}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Сведения об авторах %affiliation
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Raffil}[1]{%
+\begin{center}
+\begin{minipage}{150mm}{%
+\small\sffamily%
+#1}%
+\end{minipage}%
+\end{center}
+}
+
+\newcommand{\Eaffil}[1]{%
+\begin{center}%
+\begin{minipage}{150mm}{%
+\small\sffamily%
+#1}%
+\end{minipage}%
+\end{center}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%E-mail
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Email}[1]{%
+\vspace*{-3mm}
+\centerline{%
+\small\textit{%
+E-mail: #1}}%
+\vspace*{3mm}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Аннотация
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Rabstract}[1]{%
+\centerline{%
+\begin{minipage}{150mm}%
+{%\setlength{\parindent}{4mm}
+\small\sffamily%
+#1}%
+\end{minipage}}%
+}
+
+\newcommand{\Eabstract}[1]{%
+\centerline{%
+\begin{minipage}{150mm}%
+{%\setlength{\parindent}{4mm}
+\small\sffamily%
+#1}%
+\end{minipage}}%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ключевые слова
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\Rkeywords}[1]{%
+\vspace*{3mm}%
+\centerline{%
+\begin{minipage}{150mm}%
+{%\setlength{\parindent}{4mm}
+\small\sffamily%
+\textit{Ключевые слова:} #1.}%
+\end{minipage}}%
+\vspace*{3mm}%
+}
+
+\newcommand{\Ekeywords}[1]{%
+\vspace*{3mm}%
+\centerline{%
+\begin{minipage}{150mm}%
+{%\setlength{\parindent}{4mm}
+\small\sffamily%
+\textit{Key words:} #1.}%
+\end{minipage}}%
+\vspace*{3mm}%
+}
+
+\newlength{\realparindent}%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Библиографический список
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newenvironment{Rtwocolbib}
+{%
+\vspace*{3mm}
+\par\noindent
+{\normalfont\bfseries\sffamily Библиографический список}\vspace{2mm}%
+\setlength{\realparindent}{\parindent}%
+\begin{multicols}{2}%
+\setlength{\parindent}{0mm}\small%
+}{%
+%\setlength{\parindent}{\realparindent}
+\end{multicols}%
+}%
+
+\newenvironment{Etwocolbib}
+{%
+\par\noindent
+{\normalfont\bfseries\sffamily References}\vspace{2mm}%
+\setlength{\realparindent}{\parindent}%
+\begin{multicols}{2}%
+\setlength{\parindent}{0mm}\small%
+}{%
+%\setlength{\parindent}{\realparindent}
+\end{multicols}%
+}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\arraystretch}{1.1}

@@ -1,7 +1,7 @@
 \babel@toc {russian}{}
 \contentsline {section}{\cyrillictext \CYRV \CYRV \CYRE \CYRD \CYRE \CYRN \CYRI \CYRE }{3}%
-\contentsline {section}{\numberline {1}Концепция технологии}{3}%
-\contentsline {section}{\numberline {2}Применение технологии}{3}%
-\contentsline {section}{\numberline {3}Инструменты для реализации}{3}%
-\contentsline {section}{\cyrillictext \CYRZ \CYRA \CYRK \CYRL \CYRYU \CYRCH \CYRE \CYRN \CYRI \CYRE }{3}%
+\contentsline {section}{\numberline {1}Концепция технологии}{4}%
+\contentsline {section}{\numberline {2}Применение технологии}{6}%
+\contentsline {section}{\numberline {3}Инструменты для реализации}{6}%
+\contentsline {section}{\cyrillictext \CYRZ \CYRA \CYRK \CYRL \CYRYU \CYRCH \CYRE \CYRN \CYRI \CYRE }{6}%
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.21)  25 APR 2021 23:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.21)  3 MAY 2021 19:35
 entering extended mode
 **"c:/My-University-Documents/Course Work/pdf/course_work.tex"
 ("c:/My-University-Documents/Course Work/pdf/course_work.tex"
@@ -1885,42 +1885,133 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [3
 
-] [4
-
 ]
-<pic/1.png, id=19, 744.53156pt x 587.94656pt>
-File: pic/1.png Graphic file (type png)
-<use pic/1.png>
-Package pdftex.def Info: pic/1.png  used on input line 174.
-(pdftex.def)             Requested size: 435.32422pt x 343.78139pt.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 175.
- [5] [6 <c:/My-University-Documents/Course Work/pdf/pic/1.png>]
-<pic/perceptron.png, id=26, 633.86812pt x 590.95781pt>
+LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 171.
+ [4
+
+] [5]
+<pic/perceptron.png, id=23, 1242.89343pt x 611.28375pt>
 File: pic/perceptron.png Graphic file (type png)
 <use pic/perceptron.png>
-Package pdftex.def Info: pic/perceptron.png  used on input line 187.
-(pdftex.def)             Requested size: 435.32422pt x 405.86769pt.
- [7] [8 <c:/My-University-Documents/Course Work/pdf/pic/perceptron.png>]
+Package pdftex.def Info: pic/perceptron.png  used on input line 218.
+(pdftex.def)             Requested size: 386.95897pt x 190.31682pt.
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 201.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 201.
- [9] [10
+(Font)              scaled to size 12.0pt on input line 219.
+ [6
 
-] ("c:/My-University-Documents\Course Work\pdf\course_work.aux") ) 
+]
+<pic/neuron.png, id=28, 912.40875pt x 624.08156pt>
+File: pic/neuron.png Graphic file (type png)
+<use pic/neuron.png>
+Package pdftex.def Info: pic/neuron.png  used on input line 225.
+(pdftex.def)             Requested size: 435.32422pt x 297.75595pt.
+ [7 <c:/My-University-Documents/Course Work/pdf/pic/perceptron.png> <c:/My-University-Documents/Course Work/pdf/pic/neuron.png>]
+<pic/cnn.png, id=35, 1285.80376pt x 1134.48843pt>
+File: pic/cnn.png Graphic file (type png)
+<use pic/cnn.png>
+Package pdftex.def Info: pic/cnn.png  used on input line 271.
+(pdftex.def)             Requested size: 290.22107pt x 256.0625pt.
+ [8]
+<pic/svertka.png, id=44, 264.99pt x 335.75438pt>
+File: pic/svertka.png Graphic file (type png)
+<use pic/svertka.png>
+Package pdftex.def Info: pic/svertka.png  used on input line 284.
+(pdftex.def)             Requested size: 241.84843pt x 306.43864pt.
+ [9 <c:/My-University-Documents/Course Work/pdf/pic/cnn.png>] [10 <c:/My-University-Documents/Course Work/pdf/pic/svertka.png>]
+<pic/rgb.png, id=54, 595.47469pt x 233.37187pt>
+File: pic/rgb.png Graphic file (type png)
+<use pic/rgb.png>
+Package pdftex.def Info: pic/rgb.png  used on input line 310.
+(pdftex.def)             Requested size: 290.22107pt x 113.74072pt.
+<pic/tino.png, id=55, 481.8pt x 234.1247pt>
+File: pic/tino.png Graphic file (type png)
+<use pic/tino.png>
+Package pdftex.def Info: pic/tino.png  used on input line 319.
+(pdftex.def)             Requested size: 290.22107pt x 141.03319pt.
+ [11 <c:/My-University-Documents/Course Work/pdf/pic/rgb.png>]
+<pic/cvc.png, id=59, 215.30438pt x 250.68657pt>
+File: pic/cvc.png Graphic file (type png)
+<use pic/cvc.png>
+Package pdftex.def Info: pic/cvc.png  used on input line 328.
+(pdftex.def)             Requested size: 145.11053pt x 168.9613pt.
+ [12 <c:/My-University-Documents/Course Work/pdf/pic/tino.png> <c:/My-University-Documents/Course Work/pdf/pic/cvc.png>] [13] [14] [15] [16]
+<pic/1.png, id=76, 744.53156pt x 587.94656pt>
+File: pic/1.png Graphic file (type png)
+<use pic/1.png>
+Package pdftex.def Info: pic/1.png  used on input line 415.
+(pdftex.def)             Requested size: 435.32422pt x 343.78139pt.
+ [17 <c:/My-University-Documents/Course Work/pdf/pic/1.png>] [18
+
+]
+<pic/aero.png, id=83, 836.3747pt x 310.15875pt>
+File: pic/aero.png Graphic file (type png)
+<use pic/aero.png>
+Package pdftex.def Info: pic/aero.png  used on input line 445.
+(pdftex.def)             Requested size: 435.32422pt x 161.43965pt.
+ [19 <c:/My-University-Documents/Course Work/pdf/pic/aero.png>] [20]
+<pic/auto.png, id=91, 1122.1925pt x 602.25pt>
+File: pic/auto.png Graphic file (type png)
+<use pic/auto.png>
+Package pdftex.def Info: pic/auto.png  used on input line 494.
+(pdftex.def)             Requested size: 435.32422pt x 233.62677pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--497
+
+ []
+
+[21 <c:/My-University-Documents/Course Work/pdf/pic/auto.png (PNG copy)>] [22
+
+]
+Underfull \hbox (badness 2310) in paragraph at lines 512--513
+\T2B/Tempora-TLF/m/n/14.4 Intelligence/Some_-publications/Korotky_-Neuron_-network_-Lectures.pdf, да-та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]\T2B/Tempora-TLF/m/n/14.4 Короткий С., ''Ней-рон-ные се-ти: Ал-го-ритм об-рат-но-го рас-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+\T2B/Tempora-TLF/m/n/14.4 про-стра-не-ния'', [Элек-трон-ный ре-сурс] : [ста-тья] / URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+\T2B/Tempora-TLF/m/n/14.4 http://masters.donntu.org/2009/fvti/trubarov/library/article2.htm, да-та об-
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 515--516
+[]\T2B/Tempora-TLF/m/n/14.4 Исаков С., ''Как ра-бо-та-ет свер-точ-ная ней-рон-ная сеть: ар-хи-тек-
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 515--516
+\T2B/Tempora-TLF/m/n/14.4 ту-ра, при-ме-ры, осо-бен-но-сти'', [Элек-трон-ный ре-сурс] : [ста-тья] /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2B/Tempora-TLF/m/n/14.4 URL: https://neurohive.io/ru/osnovy-data-science/glubokaya-svertochnaja-
+ []
+
+[23
+
+] [24] ("c:/My-University-Documents\Course Work\pdf\course_work.aux") ) 
 Here is how much of TeX's memory you used:
- 32073 strings out of 480930
- 745697 string characters out of 2898354
- 1043824 words of memory out of 3000000
- 47348 multiletter control sequences out of 15000+200000
- 551194 words of font info for 47 fonts, out of 3000000 for 9000
+ 32137 strings out of 480930
+ 746578 string characters out of 2898354
+ 1043927 words of memory out of 3000000
+ 47405 multiletter control sequences out of 15000+200000
+ 548677 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,13n,98p,4301b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tempora/t2b-tempora.enc}<C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "c:/My-University-Documents\Course Work\pdf\course_work.pdf" (10 pages, 817901 bytes).
+ 63i,7n,98p,3739b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tempora/t2b-tempora.enc}<C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "c:/My-University-Documents\Course Work\pdf\course_work.pdf" (24 pages, 3201914 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 134 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

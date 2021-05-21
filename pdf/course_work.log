@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.21)  3 MAY 2021 19:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.21)  19 MAY 2021 17:36
 entering extended mode
 **"c:/My-University-Documents/Course Work/pdf/course_work.tex"
 ("c:/My-University-Documents/Course Work/pdf/course_work.tex"
@@ -1963,37 +1963,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 490--497
 [21 <c:/My-University-Documents/Course Work/pdf/pic/auto.png (PNG copy)>] [22
 
 ]
-Underfull \hbox (badness 2310) in paragraph at lines 512--513
-\T2B/Tempora-TLF/m/n/14.4 Intelligence/Some_-publications/Korotky_-Neuron_-network_-Lectures.pdf, да-та
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
-[]\T2B/Tempora-TLF/m/n/14.4 Короткий С., ''Ней-рон-ные се-ти: Ал-го-ритм об-рат-но-го рас-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
-\T2B/Tempora-TLF/m/n/14.4 про-стра-не-ния'', [Элек-трон-ный ре-сурс] : [ста-тья] / URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
-\T2B/Tempora-TLF/m/n/14.4 http://masters.donntu.org/2009/fvti/trubarov/library/article2.htm, да-та об-
- []
-
-
-Underfull \hbox (badness 5064) in paragraph at lines 515--516
-[]\T2B/Tempora-TLF/m/n/14.4 Исаков С., ''Как ра-бо-та-ет свер-точ-ная ней-рон-ная сеть: ар-хи-тек-
- []
-
-
-Underfull \hbox (badness 4120) in paragraph at lines 515--516
-\T2B/Tempora-TLF/m/n/14.4 ту-ра, при-ме-ры, осо-бен-но-сти'', [Элек-трон-ный ре-сурс] : [ста-тья] /
+Underfull \hbox (badness 1442) in paragraph at lines 514--515
+\T2B/Tempora-TLF/m/n/14.4 Intelligence/Some_-publications/Korotky_-Neuron_-network_-Lectures.pdf (да-та
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 515--516
+[]\T2B/Tempora-TLF/m/n/14.4 Короткий С., ''Ней-рон-ные се-ти: Ал-го-ритм об-рат-но-го рас-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2B/Tempora-TLF/m/n/14.4 про-стра-не-ния'', [Элек-трон-ный ре-сурс] : [ста-тья] / URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2B/Tempora-TLF/m/n/14.4 http://masters.donntu.org/2009/fvti/trubarov/library/article2.htm (да-та об-
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 517--518
+[]\T2B/Tempora-TLF/m/n/14.4 Исаков С., ''Как ра-бо-та-ет свер-точ-ная ней-рон-ная сеть: ар-хи-тек-
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 517--518
+\T2B/Tempora-TLF/m/n/14.4 ту-ра, при-ме-ры, осо-бен-но-сти'', [Элек-трон-ный ре-сурс] : [ста-тья] /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
 \T2B/Tempora-TLF/m/n/14.4 URL: https://neurohive.io/ru/osnovy-data-science/glubokaya-svertochnaja-
  []
 
@@ -2007,9 +2007,9 @@ Here is how much of TeX's memory you used:
  47405 multiletter control sequences out of 15000+200000
  548677 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,7n,98p,3739b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,7n,98p,3736b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tempora/t2b-tempora.enc}<C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/РРІР°РЅ/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "c:/My-University-Documents\Course Work\pdf\course_work.pdf" (24 pages, 3201914 bytes).
+Output written on "c:/My-University-Documents\Course Work\pdf\course_work.pdf" (24 pages, 3202162 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
